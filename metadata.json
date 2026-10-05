@@ -1,0 +1,8 @@
+{
+  "name": "Editz Iqra",
+  "description": "Premium Bangladeshi online learning and digital products e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
